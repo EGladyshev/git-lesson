@@ -1,7 +1,3 @@
 Hello everyone!
 
-Вова меняй!
-
-Zhekan make a conflict!
-
-Zhekan модифицирует!
+It's time for a new branch!
